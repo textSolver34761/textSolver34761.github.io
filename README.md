@@ -1,15 +1,16 @@
 ---
 permalink: index.html
 ---
-# Voici une présentation de moi:
+# Benjamin Pradon, apprenant full stack PHP chez Simplon.co
 
 ## Qui suis-je ?
 
 Je m'appelle ****Benjamin Pradon ****
 
 Je suis passioné par <font color="red">l'Internet des Objets </font>,  <font color="green"> l’Intelligence Artificielle </font>,  <font color="gold">le mobile. </font>
+Je lis beaucoup de livres de développement personnel. 
 
-J'ai des qualités et des défauts : 
+Comme tout le monde, j'ai des qualités et des défauts : 
 
 <ol> Mes qualités :
 <li> Je suis persévérant </li> 
@@ -26,23 +27,25 @@ J'ai des qualités et des défauts :
 
 #Ce que j'ai fais
 
-Je suis diplômé de <font color="violet"> l'ISC Paris </font> depuis Juillet 2016, après un stage validée chez <font color="red"> CSC </font> (devenue DXC Technologies). J'ai effectuée un CDD d'un an chez EI-Technologies, où je me suis aperçut que les métiers du consulting ne me plaisaient pas et ne m'étaient pas adapté.
+Je suis diplômé de <font color="violet"> l'ISC Paris </font> depuis Juillet 2016, après un stage validée chez <font color="red"> CSC </font> (devenue DXC Technologies). Suite à ce stage, j'ai effectué un CDD d'un an chez EI-Technologies, où je me suis aperçut que les métiers du consulting ne me plaisaient pas et ne m'étaient pas adapté.
 
 #Ce que j'ai vu
 
-Etant jeune, j'ai voyagé beaucoup; mes racines m'ont beaucoup aidés (je suis Franco-Anglo-Suisse). Je suis allé dans 4 continents. Je suis allé au Etats-Unis (San Fransico, New-York), en Egypte, au Maroc, au Maldives... 
+Etant jeune, j'ai voyagé beaucoup; mes racines m'ont beaucoup aidés (je suis Franco-Anglo-Suisse). En effet, je suis allé sur 4 continents. Je suis allé au Etats-Unis (San Fransico, New-York), en Egypte, au Maroc, au Maldives... 
 
 ## Aujourd'hui
 
-Je suis actuellement en formation chez Simplon pour plusieurs raisons: 
-- Je souhaite continuer à apprendre;
-- Je souhaite travailler sur les objets connectés;
-- Je souhaite travailler sur de l'Intelligence Artificiel.
+J'ai commencé le 2 octobre dernier, une formation de développeur web et cela pour plusieurs raisons: 
 
-Mais avant tout, je suis chez Simplon pour apprendre le métier de développeur web.
+- Je souhaite continuer à apprendre (en dernière année à l'ISC, j'avais fais de la programmation informatique);
+- Je souhaite travailler sur les objets connectés et sur l'Intelligence Artificielle.
 
-Je veux développer mes compétences en PHP, en mobile, dans l'IoT / IdO (internet des objets), dans l'Intelligence Artificielle (créer un chatbot, utiliser le deep learning). 
+Je pense qu'avec le monde qui évolue de plus en plus vite, les développeurs seront ceux qui seront amené à programmer de plus en plus d'objets connectés et à créer l'Intelligence Artificielle de demain.
+
+Mais avant tout, je suis chez Simplon pour apprendre le métier de développeur web full stack PHP.
+
+Actuellement, mon ambition est de développer mes compétences en PHP et Javascript, avoir des connaissances dans le développement d'applications mobile, de créer et programmer mon objet connecté et utiliser l'Intelligence Artificielle (créer un chatbot, utiliser le deep learning...). 
 
 ## Mon projet professionnel
 
-Mon projet professionnel, c'est de travailler pour un grand groupe (du CAC 40, notamment). Peut-être dans la banque, dans l'assurance... Le secteur n'est pas très important. Ce qui l'ai c'est les missions sur lesquelles je vais travailler.
+Mon projet professionnel, c'est de travailler pour une entreprise ou grand groupe du CAC 40. Je souhaiterais travailler sur de l'IA, des ojets connectés, sur des applications mobile.
