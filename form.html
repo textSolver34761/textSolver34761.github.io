@@ -8,8 +8,10 @@
 <body>
 <h1> Comment me contacter? </h1>
 <br>
-<h2> Si vous souhaitez me contacter, utilisez le formulaire ci-après: <h2> <br>
-<form action="XX.php" method="get">
+<h2> Si vous souhaitez me contacter, utilisez le formulaire ci-après: <h2>
+<br>
+<form action="https://formspree.io/pradonbenjamin@gmail.com"
+      method="POST">
 <br>
   <div class="painhaut">
   <label for="prénom"> Prénom :</label> <input type="text" name="prénom" required><br>
@@ -31,7 +33,11 @@
   <label for="message"> Message :</label> <input type= "textarea" name="message" required> 
   </div>
   <br>
-  <input type="submit" value="Envoyer mon message">
+  <input type="hidden" name="_language" value="fr" />
+  <br>
+    <input type="submit" value="Envoyer mon message">
+	<br>
+  <input type="hidden" name="_next" value="https://textsolver34761.github.io/"/>
   <br>
 </form>
 <br>
