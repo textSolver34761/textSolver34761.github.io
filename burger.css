@@ -1,51 +1,44 @@
-  painhaut{
-background-image:https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwia4OLG_NbWAhWMChoKHZjBD8wQjRwIBw&url=http%3A%2F%2Fwww.lepetrin.fr%2Frecettes%2Fpate-levee%2Fpain-gourmand-aux-cereales%2F&psig=AOvVaw1fAWKvrteP7-rUIexNtMXH&ust=1507206666871080;
-margin-top : 100px;
-margin-right: 100px;
-margin-bottom: 100px;
-margin-left: 100px;
-font: 1em sans-serif;
-border: 1px solid #999;  
+.painhaut{
+	  height: 70px;
+  width: 60%;
+  background: #e5b05a;
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+    margin-left: 280px;
     }
   
-  fromage{
-  background-color : yellow;
-  margin-top : 100px;
-margin-right: 100px;
-margin-bottom: 100px;
-margin-left: 100px;
-font: 1em sans-serif;
-border: 1px solid #999;
-  
+.fromage{
+	height: 15px;
+  width: 65%;
+  background: #f2c120;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+    margin-left: 250px;
   }
   
-  viande{
-  background-color : red;
-  margin-top : 100px;
-margin-right: 100px;
-margin-bottom: 100px;
-margin-left: 100px;
-font: 1em sans-serif;
-border: 1px solid #999;  
+.viande{
+	height: 60px;
+  width: 70%;
+  background: #74380d;
+  border-radius: 50px;
+  display: inline-block;
+  vertical-align: top;
+    margin-left: 250px;
   }
   
-  salade{
-  background-color : green;
-  margin-top : 100px;
-margin-right: 100px;
-margin-bottom: 100px;
-margin-left: 100px;
-font: 1em sans-serif;
-border: 1px solid #999;  
-  
+.salade{
+	  height: 35px;
+  width: 65%;
+  background: #ad370b;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+  margin-left: 250px;
   }
   
-  painbas{
-  background-image:https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwia4OLG_NbWAhWMChoKHZjBD8wQjRwIBw&url=http%3A%2F%2Fwww.lepetrin.fr%2Frecettes%2Fpate-levee%2Fpain-gourmand-aux-cereales%2F&psig=AOvVaw1fAWKvrteP7-rUIexNtMXH&ust=1507206666871080;
-margin-top : 100px;
-margin-right: 100px;
-margin-bottom: 100px;
-margin-left: 100px;
-font: 1em sans-serif;
-border: 1px solid #999; 
+ .painbas{
+	  height: 35px;
+  width: 60%;
+  background: #e5b05a;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1);
+  margin-left: 280px;
   }
