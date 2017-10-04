@@ -8,31 +8,28 @@
 <body>
 <h1> Comment me contacter? </h1>
 <br>
-<h2> Si vous souhaitez me contacter, utilisez le formulaire ci-après: <h2>
-<br>
-<br>
-<br>
+<h2> Si vous souhaitez me contacter, utilisez le formulaire ci-après: <h2> <br>
 <form action="XX.php" method="get">
 <br>
-  <bloc class= painhaut>
-  Prénom: <input type="text" name="prénom" requested><br>
-  </bloc>
+  <div class="painhaut">
+  <label for="prénom"> Prénom :</label> <input type="text" name="prénom" required><br>
+  </div>
   <br>
-  <bloc class="fromage">
-  Nom: <input type="text" name="nom" requested ><br>
-  </bloc>
+  <div class="fromage">
+  <label for="nom">Nom :</label> <input type="text" name="nom" required ><br>
+  </div>
   <br>
-  <bloc class="viande">
-  Email: <input type="text" name="email" requested ><br>
-  </bloc>
+  <div class="viande">
+  <label for="email">Email :</label> <input type="text" name="email" required ><br>
+  </div>
   <br>
-  <bloc class ="salade">
-  Subject <input type= "textarea" name="message" requested > <br>
-  </bloc>
+  <div class ="salade">
+  <label for="sujet"> Sujet :</label> <input type= "textarea" name="sujet" required > <br>
+  </div>
   <br>
-  <bloc class="painbas">
-  Message: <input type= "textarea" name="message" requested> 
-  </bloc>
+  <div class="painbas">
+  <label for="message"> Message :</label> <input type= "textarea" name="message" required> 
+  </div>
   <br>
   <input type="submit" value="Envoyer mon message">
   <br>
