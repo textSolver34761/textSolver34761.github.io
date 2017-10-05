@@ -1,6 +1,8 @@
 ---
 permalink: index.html
+
 ---
+[Me contacter](form.html)
 # Benjamin Pradon, apprenant full stack PHP chez Simplon.co
 
 ## Qui suis-je ?
@@ -49,3 +51,5 @@ Actuellement, mon ambition est de développer mes compétences en PHP et Javascr
 ## Mon projet professionnel
 
 Mon projet professionnel, c'est de travailler pour une entreprise ou grand groupe du CAC 40. Je souhaiterais travailler sur de l'IA, des ojets connectés, sur des applications mobile.
+
+[Me contacter](form.html)
