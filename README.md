@@ -1,6 +1,6 @@
 ---
 permalink: index.html
-
+layout: page
 ---
 [Me contacter](form.html)
 # Benjamin Pradon, apprenant full stack PHP chez Simplon.co
